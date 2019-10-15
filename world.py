@@ -1,8 +1,7 @@
 # Python3 program to find maximum 
-# in arr[] of size n 
 
-# python function to find maximum 
-# in arr[] of size n 
+ 
+ 
 def largest(arr,n): 
 
 	# Initialize maximum element 
@@ -21,7 +20,6 @@ arr = [10, 324, 45, 90, 9808]
 n = len(arr) 
 Ans = largest(arr,n) 
 print ("Largest in given array is",Ans) 
-
-# This code is contributed by Smitha Dinesh Semwal 
+ 
 :q
 
